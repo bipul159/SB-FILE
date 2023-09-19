@@ -4,7 +4,8 @@
 import os
 #-----------logo-------------#
 logo=("""
-----------BIPUL VAI--------
+
+a'----------BIPUL VAI--------
 #----------clear-----------#
 def clear():
 	 os.system(clear)
@@ -15,4 +16,3 @@ def clear():
 	 print(42*'-')
 #-----------menu------------#
 #-----------end-------------#
-clear()
